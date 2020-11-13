@@ -16,7 +16,7 @@ This video explains a little bit better... and it has monocles.
 * Add via Foundry VTT Module Setup screen using the Manifest URL: `https://raw.githubusercontent.com/CStuartEKerrigan/Exporter/master/module.json`
 * Remember to enable the module WFRP4e-Statblock Exporter.
 * Drag the macro from the compendium WFRP4E Exporter into your Macro hotbar at the bottom left.
-* Either select a token from your Scene and activate the macro.
+* Either select a token from your Scene and activate the macro OR activate macro and choose from a list of all your actors.
 * Check your journals - a new journal with your statblock is there. You can copy/paste, take the HTML or whatever you like really.
 
 # Want to support us?
