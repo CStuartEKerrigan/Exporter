@@ -20,7 +20,7 @@
   ],
   "languages": ["en"],
   "minimumCoreVersion": "0.7.7",
-  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/master/module.json",
-  "download": "https://github.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/archive/master.zip",
-  "url": "https://github.com/CStuartEKerrigan/WFRP-Night-of-Blood-4e-FVTT/"
+  "manifest": "https://raw.githubusercontent.com/CStuartEKerrigan/Exporter/master/module.json",
+  "download": "https://github.com/CStuartEKerrigan/Exporter/archive/master.zip",
+  "url": "https://github.com/CStuartEKerrigan/Exporter/"
 } 
