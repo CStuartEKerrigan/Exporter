@@ -6,7 +6,9 @@ In other words, you can build an actor, fill in his skills, talents, traits, spe
 
 This video explains a little bit better... and it has monocles.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nt3QmffPc00" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video here](http://img.youtube.com/vi/Nt3QmffPc00/0.jpg)](http://www.youtube.com/watch?v=Nt3QmffPc00 "Video Title")
+
+
 
 <h1>How to Install</h1>
 
