@@ -1,6 +1,6 @@
 {
   "name": "wfrp4e-exporter",
-  "title": "WFRP 4e Statblock Exporter",
+  "title": "WFRP4e Statblock Exporter",
   "description": "Export statblocks into a document-friendly format for publications.",
   "version": "1.0",
   "author": "Stu",
